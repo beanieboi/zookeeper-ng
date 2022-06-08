@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require 'zookeeper/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'zookeeper'
+  s.name        = 'zookeeper-ng'
   s.version     = Zookeeper::VERSION
 
   s.authors     = [
